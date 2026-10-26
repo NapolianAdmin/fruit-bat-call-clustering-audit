@@ -4,5 +4,7 @@ title: "Discrete or graded? A confound-controlled re-analysis of clustering in E
 authors:
   - family-names: Rai
     given-names: Ninad
+    affiliation: Ashoka University
 license: MIT
 type: software
+repository-code: https://github.com/NapolianAdmin/fruit-bat-call-clustering-audit
