@@ -1,0 +1,2 @@
+C1_AUC,C1_AUC_lo,C1_AUC_hi,C1_d_prime,C1_share_nonIso_above_Iso_p5,C1_AUC_pups_only,C1_pass,n_files,n_isolation,C2_pass,C2_cluster_share,C2_isolation_share_within,C2_isolation_recall,real_k_100,real_noise_100,null_k_100_mean,null_noise_100_mean,null_k_100_min,null_noise_100_min,C3_pass
+0.9880117984338757,0.9779121639693488,0.9923866803606646,5.086187519545705,0.025033171163202122,0.985231068197,True,12000,695,True,0.057916666666666665,0.9007194244604316,0.9007194244604316,2,0.0,8.0,0.7020833333333334,7,0.6849166666666666,True

@@ -1,0 +1,6 @@
+partition,files,isolation_files,positive_coded_files,positive_coded_bats,channels,recording_days
+discovery,41116,2740,18450,41,12,344
+replication,12000,695,4650,33,12,330
+completion,33557,2089,13344,33,12,338
+reproduction only,1313,83,1313,10,9,217
+all annotated files,87986,5607,37757,41,12,345

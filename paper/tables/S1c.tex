@@ -1,0 +1,20 @@
+\begin{table}[htbp]\centering\scriptsize
+\caption{\textbf{Table S1c.} Position of the observed statistic in each null distribution: number of null replicates (of $N$, 50--100) whose value is at least as large as the observed one, for the Gaussian-copula (cop.) and session-mean (ses.) nulls. The empirical one-sided $p$ is $(1+k)/(N+1)$, so $0/50$ means $p<1/51$; $N/N$ means the observed value lies below every null replicate (the stability statistics PS and Jaccard are then lower than expected without structure). Dip = split-sample dip statistic; other abbreviations as in Table S1. Where the FPC excess is numerically zero (all voiced and syllable data sets; collapse to one cluster) it is zero to below $10^{-7}$ in data and nulls alike, so its count carries no information; a small count for the silhouette means the observed silhouette exceeds the null, not that the excess is large (Table S1b).}\label{tab:S1c}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{lcccccccccc}
+\toprule
+representation & FPC$-$0.5 cop. & FPC$-$0.5 ses. & silhouette cop. & silhouette ses. & PS cop. & PS ses. & Jaccard cop. & Jaccard ses. & dip cop. & dip ses. \\
+\midrule
+original matrix (draft, 3,897 rows) & 0/100 & 0/100 & 0/100 & 0/100 & 100/100 & 61/100 & 100/100 & 84/100 & 79/100 & 16/100 \\
+whole-span 1,408 (15,992 files) & 0/50 & 0/50 & 0/50 & 0/50 & 50/50 & 50/50 & 50/50 & 50/50 & 47/50 & 21/50 \\
+voiced 1,408 (15,992 files) & 0/50 & 0/50 & 0/50 & 0/50 & 50/50 & 50/50 & 50/50 & 50/50 & 7/50 & 2/50 \\
+voiced MFCC (15,992 files) & 0/50 & 1/50 & 0/50 & 0/50 & 50/50 & 50/50 & 50/50 & 47/50 & 9/50 & 36/50 \\
+syllable shape (30,000) & 0/50 & 0/50 & 2/50 & 9/50 & 50/50 & 50/50 & 50/50 & 50/50 & 39/50 & 19/50 \\
+VAE latent, unseen bats (13,510) & 41/50 & 41/50 & 47/50 & 49/50 & 50/50 & 6/50 & 50/50 & 38/50 & 10/50 & 11/50 \\
+8-PC baseline, unseen bats (13,510) & 5/50 & 6/50 & 48/50 & 43/50 & 50/50 & 50/50 & 50/50 & 46/50 & 2/50 & 3/50 \\
+Dataset B microphone (12,417) & 0/50 & 0/50 & 0/50 & 0/50 & 50/50 & 50/50 & 50/50 & 50/50 & 50/50 & 9/50 \\
+Dataset B piezo (12,417) & 0/50 & 0/50 & 0/50 & 0/50 & 50/50 & 50/50 & 50/50 & 50/50 & 25/50 & 0/50 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

@@ -1,0 +1,32 @@
+set,held_out,group,n,n_isolation,bats,AUC,AUC_min,AUC_max,n_groups
+all2_voiced_ref1,channel,1,14854,952.0,20.0,0.9882640367325177,,,
+all2_voiced_ref1,channel,10,116,28.0,3.0,0.929788961038961,,,
+all2_voiced_ref1,channel,11,1790,441.0,10.0,0.983454612386096,,,
+all2_voiced_ref1,channel,12,3462,304.0,9.0,0.9806631445618479,,,
+all2_voiced_ref1,channel,2,3127,279.0,21.0,0.9776350630260562,,,
+all2_voiced_ref1,channel,3,3476,308.0,11.0,0.9795315164633347,,,
+all2_voiced_ref1,channel,4,3353,274.0,18.0,0.9731451343335948,,,
+all2_voiced_ref1,channel,9,818,93.0,14.0,0.9807638116425658,,,
+all2_voiced_ref1,channel,POOLED (weighted mean over groups),30996,,,0.9830334853014182,0.929788961038961,0.9882640367325177,8.0
+all2_voiced_ref1,treatment_id,1,2388,481.0,9.0,0.9799971000810015,,,
+all2_voiced_ref1,treatment_id,10,5151,1029.0,13.0,0.9795913652076205,,,
+all2_voiced_ref1,treatment_id,13,92,50.0,1.0,0.9514285714285714,,,
+all2_voiced_ref1,treatment_id,17,9930,202.0,6.0,0.9958316709549244,,,
+all2_voiced_ref1,treatment_id,2,3993,341.0,8.0,0.9786273861106918,,,
+all2_voiced_ref1,treatment_id,9,6133,491.0,10.0,0.9814711600730917,,,
+all2_voiced_ref1,treatment_id,POOLED (weighted mean over groups),27687,,,0.9856347706793794,0.9514285714285714,0.9958316709549244,6.0
+segall_shape,channel,1,10464,341.0,20.0,0.94031448375596,,,
+segall_shape,channel,11,1496,225.0,10.0,0.976270653029111,,,
+segall_shape,channel,12,2593,132.0,9.0,0.967603708765838,,,
+segall_shape,channel,2,1651,85.0,21.0,0.9665990534144693,,,
+segall_shape,channel,3,3964,130.0,11.0,0.9570362345010233,,,
+segall_shape,channel,4,2676,72.0,18.0,0.8928464755077659,,,
+segall_shape,channel,9,381,34.0,14.0,0.9648245465333107,,,
+segall_shape,channel,POOLED (weighted mean over groups),23225,,,0.9453326184379354,0.8928464755077659,0.976270653029111,7.0
+segall_shape,treatment_id,1,1938,216.0,9.0,0.9733352690669764,,,
+segall_shape,treatment_id,10,4030,366.0,13.0,0.9455378874651013,,,
+segall_shape,treatment_id,13,45,24.0,1.0,0.9226190476190477,,,
+segall_shape,treatment_id,17,6029,60.0,6.0,0.9723851007985704,,,
+segall_shape,treatment_id,2,2875,148.0,8.0,0.9641126274789641,,,
+segall_shape,treatment_id,9,6168,189.0,10.0,0.9320965531034104,,,
+segall_shape,treatment_id,POOLED (weighted mean over groups),21085,,,0.9543212905543018,0.9226190476190477,0.9733352690669764,6.0

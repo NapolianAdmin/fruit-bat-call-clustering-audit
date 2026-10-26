@@ -1,0 +1,2 @@
+prefix,rows,files,failed_files,wall_s,net_wait_s_sum,feature_s_sum,gb_read,workers,rows_per_s
+segold,15992,15992,0,3200.827952400001,12670.855506199914,4444.824219700233,6.294257822,6,4.996207305678238

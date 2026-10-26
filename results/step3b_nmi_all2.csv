@@ -1,0 +1,73 @@
+set,method,k,aligned_with,NMI,n
+all2_naive_ref1,KMeans,2,channel,0.0248975133226579,41116
+all2_naive_ref1,KMeans,2,month,0.029731719492717426,41116
+all2_naive_ref1,KMeans,2,context,0.039192746571412494,41116
+all2_naive_ref1,KMeans,2,bat(+ only),0.04295464348058107,18450
+all2_naive_ref1,KMeans,2,silence_fraction bin (quintile),0.22558933960500077,41116
+all2_naive_ref1,KMeans,2,SNR bin (quintile),0.0036501256499893104,41108
+all2_naive_ref1,GMM-diag,2,channel,0.007075490582972608,41116
+all2_naive_ref1,GMM-diag,2,month,0.01400747558772553,41116
+all2_naive_ref1,GMM-diag,2,context,0.043304392434037386,41116
+all2_naive_ref1,GMM-diag,2,bat(+ only),0.011875506029424266,18450
+all2_naive_ref1,GMM-diag,2,silence_fraction bin (quintile),0.0015895601382792577,41116
+all2_naive_ref1,GMM-diag,2,SNR bin (quintile),0.016102198170882032,41108
+all2_naive_ref1,FCM,2,channel,0.023341487699304362,41116
+all2_naive_ref1,FCM,2,month,0.028402630153148728,41116
+all2_naive_ref1,FCM,2,context,0.039063784386413704,41116
+all2_naive_ref1,FCM,2,bat(+ only),0.0427335663243232,18450
+all2_naive_ref1,FCM,2,silence_fraction bin (quintile),0.23057790699569736,41116
+all2_naive_ref1,FCM,2,SNR bin (quintile),0.003988109631700091,41108
+all2_voiced_ref1,KMeans,2,channel,0.018155004831439607,41116
+all2_voiced_ref1,KMeans,2,month,0.026631287493300997,41116
+all2_voiced_ref1,KMeans,2,context,0.04314600088948847,41116
+all2_voiced_ref1,KMeans,2,bat(+ only),0.04566783029232985,18450
+all2_voiced_ref1,KMeans,2,silence_fraction bin (quintile),0.0588138685020824,41116
+all2_voiced_ref1,KMeans,2,SNR bin (quintile),0.0718391479766313,41108
+all2_voiced_ref1,GMM-diag,2,channel,0.014694672317994546,41116
+all2_voiced_ref1,GMM-diag,2,month,0.017172233640541972,41116
+all2_voiced_ref1,GMM-diag,2,context,0.07584201037130173,41116
+all2_voiced_ref1,GMM-diag,2,bat(+ only),0.022610986174375087,18450
+all2_voiced_ref1,GMM-diag,2,silence_fraction bin (quintile),0.01719600910068243,41116
+all2_voiced_ref1,GMM-diag,2,SNR bin (quintile),0.007807779695301765,41108
+all2_voiced_ref1,FCM,2,channel,0.0183921638545381,41116
+all2_voiced_ref1,FCM,2,month,0.027272940036926988,41116
+all2_voiced_ref1,FCM,2,context,0.04161716075803254,41116
+all2_voiced_ref1,FCM,2,bat(+ only),0.04574555166569129,18450
+all2_voiced_ref1,FCM,2,silence_fraction bin (quintile),0.05983668683766479,41116
+all2_voiced_ref1,FCM,2,SNR bin (quintile),0.0701653072374543,41108
+all2_mfcc_naive,KMeans,2,channel,0.012349331818009285,41116
+all2_mfcc_naive,KMeans,2,month,0.013069880024395268,41116
+all2_mfcc_naive,KMeans,2,context,0.023902052954967213,41116
+all2_mfcc_naive,KMeans,2,bat(+ only),0.022837168459223903,18450
+all2_mfcc_naive,KMeans,2,silence_fraction bin (quintile),0.1785907500745777,41116
+all2_mfcc_naive,KMeans,2,SNR bin (quintile),0.02088266819278678,41108
+all2_mfcc_naive,GMM-diag,2,channel,0.0010608152201932511,41116
+all2_mfcc_naive,GMM-diag,2,month,0.0029045778808388005,41116
+all2_mfcc_naive,GMM-diag,2,context,0.006085710277340781,41116
+all2_mfcc_naive,GMM-diag,2,bat(+ only),0.00314063140282942,18450
+all2_mfcc_naive,GMM-diag,2,silence_fraction bin (quintile),0.006628733848813727,41116
+all2_mfcc_naive,GMM-diag,2,SNR bin (quintile),0.008131495035750084,41108
+all2_mfcc_naive,FCM,2,channel,0.012640079305608827,41116
+all2_mfcc_naive,FCM,2,month,0.014003023592651391,41116
+all2_mfcc_naive,FCM,2,context,0.024540581455678334,41116
+all2_mfcc_naive,FCM,2,bat(+ only),0.02326413470154354,18450
+all2_mfcc_naive,FCM,2,silence_fraction bin (quintile),0.18629234611741569,41116
+all2_mfcc_naive,FCM,2,SNR bin (quintile),0.02333008039512234,41108
+all2_mfcc_voiced,KMeans,2,channel,0.026987192487852554,41116
+all2_mfcc_voiced,KMeans,2,month,0.01610219431849613,41116
+all2_mfcc_voiced,KMeans,2,context,0.11193956974026949,41116
+all2_mfcc_voiced,KMeans,2,bat(+ only),0.0673019603255466,18450
+all2_mfcc_voiced,KMeans,2,silence_fraction bin (quintile),0.007099326895368223,41116
+all2_mfcc_voiced,KMeans,2,SNR bin (quintile),2.7559121327206807e-05,41108
+all2_mfcc_voiced,GMM-diag,2,channel,0.009763059421010349,41116
+all2_mfcc_voiced,GMM-diag,2,month,0.0054726592780817915,41116
+all2_mfcc_voiced,GMM-diag,2,context,0.04805606460359318,41116
+all2_mfcc_voiced,GMM-diag,2,bat(+ only),0.034240828560152495,18450
+all2_mfcc_voiced,GMM-diag,2,silence_fraction bin (quintile),0.1850589703685606,41116
+all2_mfcc_voiced,GMM-diag,2,SNR bin (quintile),0.004104677770350457,41108
+all2_mfcc_voiced,FCM,2,channel,0.026955734510286163,41116
+all2_mfcc_voiced,FCM,2,month,0.018201264995653686,41116
+all2_mfcc_voiced,FCM,2,context,0.07625392871848731,41116
+all2_mfcc_voiced,FCM,2,bat(+ only),0.09058974145533245,18450
+all2_mfcc_voiced,FCM,2,silence_fraction bin (quintile),0.0038447644988303022,41116
+all2_mfcc_voiced,FCM,2,SNR bin (quintile),0.0010167244733643383,41108

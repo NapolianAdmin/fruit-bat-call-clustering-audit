@@ -1,0 +1,2 @@
+prefix,rows,files,failed_files,wall_s,net_wait_s_sum,feature_s_sum,gb_read,workers,rows_per_s
+smoke,40,40,0,22.03125530000034,27.420459700004358,31.90921850000086,0.024235722,6,1.8156024001046995

@@ -1,0 +1,2 @@
+tag,n,mcs,small_cluster_files,small_cluster_share,n_bats_in_small,P_small_given_isolation,P_isolation_given_small,isolation_share_all,nmi_isolation,nmi_null_mean,nmi_null_max,heldout_dip_median_p,heldout_dip_frac_p05,heldout_dprime_mean
+segall_shape,12000,100,464,0.03866666666666667,37,0.8175675675675675,0.7823275862068966,0.037,0.6077065891341416,0.04420096280976432,0.07015745095727724,0.9952418089594737,0.0,4.750850494592277

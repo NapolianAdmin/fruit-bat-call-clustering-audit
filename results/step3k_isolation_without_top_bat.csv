@@ -1,0 +1,3 @@
+set,removed_bat,removed_isolation_files,remaining_isolation_files,remaining_bats_with_isolation,AUC,AUC_lo,AUC_hi
+all2_voiced_ref1,0,1558,1182,23,0.9841789065894931,0.9742833157095528,0.9915551562831821
+segall_shape,0,576,475,19,0.9524084624596292,0.9264349453240038,0.9738219103002534

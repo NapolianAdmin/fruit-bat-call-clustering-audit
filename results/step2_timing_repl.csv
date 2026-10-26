@@ -1,0 +1,2 @@
+prefix,rows,files,failed_files,wall_s,net_wait_s_sum,feature_s_sum,gb_read,workers,rows_per_s
+repl,12000,12000,0,1676.4706141999995,7671.778072299923,1476.0615662008568,4.636034053,6,7.157894625982644

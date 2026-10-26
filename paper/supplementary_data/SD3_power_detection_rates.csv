@@ -1,0 +1,217 @@
+data,minority_share,separation_sd,statistic,detections,replicates,detection_rate,wilson_lo,wilson_hi,null_datasets,run
+voiced file-level features,0.05,1.0,prediction strength,12,200,0.06,0.0346518499012715,0.10193263530685089,200,200 replicates
+voiced file-level features,0.05,1.0,silhouette,2,200,0.01,0.0027466006037749346,0.03572248519617954,200,200 replicates
+voiced file-level features,0.05,1.0,bootstrap Jaccard,9,200,0.045,0.023852271724704166,0.08329759366096785,200,200 replicates
+voiced file-level features,0.05,1.0,split-sample dip statistic,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+voiced file-level features,0.05,1.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,1.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,2.0,prediction strength,19,200,0.095,0.06166261364986359,0.14360265114397636,200,200 replicates
+voiced file-level features,0.05,2.0,silhouette,7,200,0.035,0.017055324637357105,0.07047146086668134,200,200 replicates
+voiced file-level features,0.05,2.0,bootstrap Jaccard,4,200,0.02,0.007804300176394188,0.050287865505193874,200,200 replicates
+voiced file-level features,0.05,2.0,split-sample dip statistic,9,200,0.045,0.023852271724704166,0.08329759366096785,200,200 replicates
+voiced file-level features,0.05,2.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,2.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,3.0,prediction strength,14,200,0.07,0.04215178292291873,0.11405578216683726,200,200 replicates
+voiced file-level features,0.05,3.0,silhouette,13,200,0.065,0.03837598764975976,0.10802003749917945,200,200 replicates
+voiced file-level features,0.05,3.0,bootstrap Jaccard,10,200,0.05,0.027382349028644986,0.08957905629784384,200,200 replicates
+voiced file-level features,0.05,3.0,split-sample dip statistic,11,200,0.055,0.030985020801370097,0.0957879244659355,200,200 replicates
+voiced file-level features,0.05,3.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,3.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,4.0,prediction strength,11,200,0.055,0.030985020801370097,0.0957879244659355,200,200 replicates
+voiced file-level features,0.05,4.0,silhouette,11,200,0.055,0.030985020801370097,0.0957879244659355,200,200 replicates
+voiced file-level features,0.05,4.0,bootstrap Jaccard,14,200,0.07,0.04215178292291873,0.11405578216683726,200,200 replicates
+voiced file-level features,0.05,4.0,split-sample dip statistic,4,200,0.02,0.007804300176394188,0.050287865505193874,200,200 replicates
+voiced file-level features,0.05,4.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,4.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,6.0,prediction strength,13,200,0.065,0.03837598764975976,0.10802003749917945,200,200 replicates
+voiced file-level features,0.05,6.0,silhouette,23,200,0.115,0.07786317221824318,0.16664825233886393,200,200 replicates
+voiced file-level features,0.05,6.0,bootstrap Jaccard,10,200,0.05,0.027382349028644986,0.08957905629784384,200,200 replicates
+voiced file-level features,0.05,6.0,split-sample dip statistic,36,200,0.18,0.13294550662534108,0.2391159371623843,200,200 replicates
+voiced file-level features,0.05,6.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,6.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.05,8.0,prediction strength,65,200,0.325,0.2639146705018621,0.39268143156955027,200,200 replicates
+voiced file-level features,0.05,8.0,silhouette,35,200,0.175,0.12860441174608936,0.23364549210081922,200,200 replicates
+voiced file-level features,0.05,8.0,bootstrap Jaccard,53,200,0.265,0.20868060011609973,0.33017702266551113,200,200 replicates
+voiced file-level features,0.05,8.0,split-sample dip statistic,179,200,0.895,0.8448186177864638,0.9302930375380627,200,200 replicates
+voiced file-level features,0.05,8.0,median dip p < 0.05,96,200,0.48,0.4117904407948983,0.5489633994418346,200,200 replicates
+voiced file-level features,0.05,8.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.2,1.0,prediction strength,13,200,0.065,0.03837598764975976,0.10802003749917945,200,200 replicates
+voiced file-level features,0.2,1.0,silhouette,6,200,0.03,0.013820125830748327,0.06389511973247333,200,200 replicates
+voiced file-level features,0.2,1.0,bootstrap Jaccard,8,200,0.04,0.02040538715065641,0.07693293829419882,200,200 replicates
+voiced file-level features,0.2,1.0,split-sample dip statistic,13,200,0.065,0.03837598764975976,0.10802003749917945,200,200 replicates
+voiced file-level features,0.2,1.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.2,1.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.2,2.0,prediction strength,22,200,0.11,0.07377190160716048,0.16092798300912986,200,200 replicates
+voiced file-level features,0.2,2.0,silhouette,25,200,0.125,0.0861191515921568,0.1780153528465839,200,200 replicates
+voiced file-level features,0.2,2.0,bootstrap Jaccard,15,200,0.075,0.045974507057252416,0.12004459797332034,200,200 replicates
+voiced file-level features,0.2,2.0,split-sample dip statistic,10,200,0.05,0.027382349028644986,0.08957905629784384,200,200 replicates
+voiced file-level features,0.2,2.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.2,2.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.2,3.0,prediction strength,28,200,0.14,0.09866918625271481,0.19489993800847627,200,200 replicates
+voiced file-level features,0.2,3.0,silhouette,52,200,0.26,0.20413736892786316,0.32490871391293097,200,200 replicates
+voiced file-level features,0.2,3.0,bootstrap Jaccard,34,200,0.17,0.12427835351105657,0.22816001039503528,200,200 replicates
+voiced file-level features,0.2,3.0,split-sample dip statistic,8,200,0.04,0.02040538715065641,0.07693293829419882,200,200 replicates
+voiced file-level features,0.2,3.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.2,3.0,FPC excess > 0.01,3,200,0.015,0.005114145184492387,0.043166480556278884,200,200 replicates
+voiced file-level features,0.2,4.0,prediction strength,104,200,0.52,0.4510366005581654,0.5882095592051018,200,200 replicates
+voiced file-level features,0.2,4.0,silhouette,100,200,0.5,0.43135962209034523,0.5686403779096547,200,200 replicates
+voiced file-level features,0.2,4.0,bootstrap Jaccard,94,200,0.47,0.4020463337087108,0.5390844266463886,200,200 replicates
+voiced file-level features,0.2,4.0,split-sample dip statistic,128,200,0.64,0.5714139956562682,0.7033091226866021,200,200 replicates
+voiced file-level features,0.2,4.0,median dip p < 0.05,40,200,0.2,0.15045120743928825,0.26085639611170436,200,200 replicates
+voiced file-level features,0.2,4.0,FPC excess > 0.01,19,200,0.095,0.06166261364986359,0.14360265114397636,200,200 replicates
+voiced file-level features,0.2,6.0,prediction strength,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.2,6.0,silhouette,192,200,0.96,0.9230670617058012,0.9795946128493436,200,200 replicates
+voiced file-level features,0.2,6.0,bootstrap Jaccard,198,200,0.99,0.9642775148038205,0.9972533993962251,200,200 replicates
+voiced file-level features,0.2,6.0,split-sample dip statistic,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.2,6.0,median dip p < 0.05,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.2,6.0,FPC excess > 0.01,121,200,0.605,0.5358822087449843,0.6701601300121683,200,200 replicates
+voiced file-level features,0.2,8.0,prediction strength,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.2,8.0,silhouette,199,200,0.995,0.9722256001302286,0.999116854010634,200,200 replicates
+voiced file-level features,0.2,8.0,bootstrap Jaccard,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.2,8.0,split-sample dip statistic,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.2,8.0,median dip p < 0.05,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.2,8.0,FPC excess > 0.01,191,200,0.955,0.9167024063390322,0.9761477282752958,200,200 replicates
+voiced file-level features,0.5,1.0,prediction strength,12,200,0.06,0.0346518499012715,0.10193263530685089,200,200 replicates
+voiced file-level features,0.5,1.0,silhouette,7,200,0.035,0.017055324637357105,0.07047146086668134,200,200 replicates
+voiced file-level features,0.5,1.0,bootstrap Jaccard,12,200,0.06,0.0346518499012715,0.10193263530685089,200,200 replicates
+voiced file-level features,0.5,1.0,split-sample dip statistic,3,200,0.015,0.005114145184492387,0.043166480556278884,200,200 replicates
+voiced file-level features,0.5,1.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.5,1.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.5,2.0,prediction strength,25,200,0.125,0.0861191515921568,0.1780153528465839,200,200 replicates
+voiced file-level features,0.5,2.0,silhouette,30,200,0.15,0.107135265876273,0.20605693826655166,200,200 replicates
+voiced file-level features,0.5,2.0,bootstrap Jaccard,21,200,0.105,0.0697069624619373,0.15518138221353622,200,200 replicates
+voiced file-level features,0.5,2.0,split-sample dip statistic,9,200,0.045,0.023852271724704166,0.08329759366096785,200,200 replicates
+voiced file-level features,0.5,2.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+voiced file-level features,0.5,2.0,FPC excess > 0.01,1,200,0.005,0.0008831459893662054,0.02777439986977148,200,200 replicates
+voiced file-level features,0.5,3.0,prediction strength,101,200,0.505,0.4362687594824017,0.5735427804584151,200,200 replicates
+voiced file-level features,0.5,3.0,silhouette,111,200,0.555,0.4857317563236392,0.6221951830253456,200,200 replicates
+voiced file-level features,0.5,3.0,bootstrap Jaccard,95,200,0.475,0.4069150074009861,0.54402729289493,200,200 replicates
+voiced file-level features,0.5,3.0,split-sample dip statistic,139,200,0.695,0.6280132012185453,0.7546368564733095,200,200 replicates
+voiced file-level features,0.5,3.0,median dip p < 0.05,68,200,0.34,0.2779143922159556,0.40811632967790723,200,200 replicates
+voiced file-level features,0.5,3.0,FPC excess > 0.01,32,200,0.16,0.11567342208544587,0.2171418619390124,200,200 replicates
+voiced file-level features,0.5,4.0,prediction strength,191,200,0.955,0.9167024063390322,0.9761477282752958,200,200 replicates
+voiced file-level features,0.5,4.0,silhouette,180,200,0.9,0.8505931364369146,0.9343300588284289,200,200 replicates
+voiced file-level features,0.5,4.0,bootstrap Jaccard,191,200,0.955,0.9167024063390322,0.9761477282752958,200,200 replicates
+voiced file-level features,0.5,4.0,split-sample dip statistic,199,200,0.995,0.9722256001302286,0.999116854010634,200,200 replicates
+voiced file-level features,0.5,4.0,median dip p < 0.05,195,200,0.975,0.9428208558483829,0.9892754385292123,200,200 replicates
+voiced file-level features,0.5,4.0,FPC excess > 0.01,135,200,0.675,0.6073185684304498,0.736085329498138,200,200 replicates
+voiced file-level features,0.5,6.0,prediction strength,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,6.0,silhouette,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,6.0,bootstrap Jaccard,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,6.0,split-sample dip statistic,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,6.0,median dip p < 0.05,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,6.0,FPC excess > 0.01,199,200,0.995,0.9722256001302286,0.999116854010634,200,200 replicates
+voiced file-level features,0.5,8.0,prediction strength,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,8.0,silhouette,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,8.0,bootstrap Jaccard,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,8.0,split-sample dip statistic,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,8.0,median dip p < 0.05,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+voiced file-level features,0.5,8.0,FPC excess > 0.01,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.05,1.0,prediction strength,3,200,0.015,0.005114145184492387,0.043166480556278884,200,200 replicates
+syllable shapes,0.05,1.0,silhouette,6,200,0.03,0.013820125830748327,0.06389511973247333,200,200 replicates
+syllable shapes,0.05,1.0,bootstrap Jaccard,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.05,1.0,split-sample dip statistic,6,200,0.03,0.013820125830748327,0.06389511973247333,200,200 replicates
+syllable shapes,0.05,1.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,1.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,2.0,prediction strength,10,200,0.05,0.027382349028644986,0.08957905629784384,200,200 replicates
+syllable shapes,0.05,2.0,silhouette,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.05,2.0,bootstrap Jaccard,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.05,2.0,split-sample dip statistic,6,200,0.03,0.013820125830748327,0.06389511973247333,200,200 replicates
+syllable shapes,0.05,2.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,2.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,3.0,prediction strength,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.05,3.0,silhouette,8,200,0.04,0.02040538715065641,0.07693293829419882,200,200 replicates
+syllable shapes,0.05,3.0,bootstrap Jaccard,4,200,0.02,0.007804300176394188,0.050287865505193874,200,200 replicates
+syllable shapes,0.05,3.0,split-sample dip statistic,13,200,0.065,0.03837598764975976,0.10802003749917945,200,200 replicates
+syllable shapes,0.05,3.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,3.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,4.0,prediction strength,8,200,0.04,0.02040538715065641,0.07693293829419882,200,200 replicates
+syllable shapes,0.05,4.0,silhouette,9,200,0.045,0.023852271724704166,0.08329759366096785,200,200 replicates
+syllable shapes,0.05,4.0,bootstrap Jaccard,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.05,4.0,split-sample dip statistic,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.05,4.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,4.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,6.0,prediction strength,14,200,0.07,0.04215178292291873,0.11405578216683726,200,200 replicates
+syllable shapes,0.05,6.0,silhouette,15,200,0.075,0.045974507057252416,0.12004459797332034,200,200 replicates
+syllable shapes,0.05,6.0,bootstrap Jaccard,8,200,0.04,0.02040538715065641,0.07693293829419882,200,200 replicates
+syllable shapes,0.05,6.0,split-sample dip statistic,17,200,0.085,0.05374529946985246,0.13189688544235392,200,200 replicates
+syllable shapes,0.05,6.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,6.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.05,8.0,prediction strength,34,200,0.17,0.12427835351105657,0.22816001039503528,200,200 replicates
+syllable shapes,0.05,8.0,silhouette,23,200,0.115,0.07786317221824318,0.16664825233886393,200,200 replicates
+syllable shapes,0.05,8.0,bootstrap Jaccard,27,200,0.135,0.09446507976920289,0.18929250455117141,200,200 replicates
+syllable shapes,0.05,8.0,split-sample dip statistic,128,200,0.64,0.5714139956562682,0.7033091226866021,200,200 replicates
+syllable shapes,0.05,8.0,median dip p < 0.05,60,200,0.3,0.24074644243406385,0.3667919599332645,200,200 replicates
+syllable shapes,0.05,8.0,FPC excess > 0.01,1,200,0.005,0.0008831459893662054,0.02777439986977148,200,200 replicates
+syllable shapes,0.2,1.0,prediction strength,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.2,1.0,silhouette,4,200,0.02,0.007804300176394188,0.050287865505193874,200,200 replicates
+syllable shapes,0.2,1.0,bootstrap Jaccard,7,200,0.035,0.017055324637357105,0.07047146086668134,200,200 replicates
+syllable shapes,0.2,1.0,split-sample dip statistic,6,200,0.03,0.013820125830748327,0.06389511973247333,200,200 replicates
+syllable shapes,0.2,1.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.2,1.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.2,2.0,prediction strength,9,200,0.045,0.023852271724704166,0.08329759366096785,200,200 replicates
+syllable shapes,0.2,2.0,silhouette,16,200,0.08,0.04984015517626642,0.12599048979512317,200,200 replicates
+syllable shapes,0.2,2.0,bootstrap Jaccard,5,200,0.025,0.010724561470787711,0.05717914415161715,200,200 replicates
+syllable shapes,0.2,2.0,split-sample dip statistic,8,200,0.04,0.02040538715065641,0.07693293829419882,200,200 replicates
+syllable shapes,0.2,2.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.2,2.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.2,3.0,prediction strength,18,200,0.09,0.05768697871453362,0.13776674613848952,200,200 replicates
+syllable shapes,0.2,3.0,silhouette,39,200,0.195,0.14605441564505764,0.25544164796511815,200,200 replicates
+syllable shapes,0.2,3.0,bootstrap Jaccard,16,200,0.08,0.04984015517626642,0.12599048979512317,200,200 replicates
+syllable shapes,0.2,3.0,split-sample dip statistic,6,200,0.03,0.013820125830748327,0.06389511973247333,200,200 replicates
+syllable shapes,0.2,3.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.2,3.0,FPC excess > 0.01,7,200,0.035,0.017055324637357105,0.07047146086668134,200,200 replicates
+syllable shapes,0.2,4.0,prediction strength,53,200,0.265,0.20868060011609973,0.33017702266551113,200,200 replicates
+syllable shapes,0.2,4.0,silhouette,76,200,0.38,0.3155889366123922,0.4489341048080049,200,200 replicates
+syllable shapes,0.2,4.0,bootstrap Jaccard,55,200,0.275,0.21779604313809775,0.3406846595251467,200,200 replicates
+syllable shapes,0.2,4.0,split-sample dip statistic,76,200,0.38,0.3155889366123922,0.4489341048080049,200,200 replicates
+syllable shapes,0.2,4.0,median dip p < 0.05,14,200,0.07,0.04215178292291873,0.11405578216683726,200,200 replicates
+syllable shapes,0.2,4.0,FPC excess > 0.01,22,200,0.11,0.07377190160716048,0.16092798300912986,200,200 replicates
+syllable shapes,0.2,6.0,prediction strength,191,200,0.955,0.9167024063390322,0.9761477282752958,200,200 replicates
+syllable shapes,0.2,6.0,silhouette,166,200,0.83,0.7718399896049648,0.8757216464889435,200,200 replicates
+syllable shapes,0.2,6.0,bootstrap Jaccard,187,200,0.935,0.8919799625008207,0.9616240123502404,200,200 replicates
+syllable shapes,0.2,6.0,split-sample dip statistic,198,200,0.99,0.9642775148038205,0.9972533993962251,200,200 replicates
+syllable shapes,0.2,6.0,median dip p < 0.05,196,200,0.98,0.9497121344948062,0.9921956998236058,200,200 replicates
+syllable shapes,0.2,6.0,FPC excess > 0.01,103,200,0.515,0.44610724474630287,0.5833273750761476,200,200 replicates
+syllable shapes,0.2,8.0,prediction strength,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.2,8.0,silhouette,197,200,0.985,0.9568335194437211,0.9948858548155076,200,200 replicates
+syllable shapes,0.2,8.0,bootstrap Jaccard,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.2,8.0,split-sample dip statistic,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.2,8.0,median dip p < 0.05,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.2,8.0,FPC excess > 0.01,178,200,0.89,0.8390720169908702,0.9262280983928396,200,200 replicates
+syllable shapes,0.5,1.0,prediction strength,7,200,0.035,0.017055324637357105,0.07047146086668134,200,200 replicates
+syllable shapes,0.5,1.0,silhouette,7,200,0.035,0.017055324637357105,0.07047146086668134,200,200 replicates
+syllable shapes,0.5,1.0,bootstrap Jaccard,10,200,0.05,0.027382349028644986,0.08957905629784384,200,200 replicates
+syllable shapes,0.5,1.0,split-sample dip statistic,10,200,0.05,0.027382349028644986,0.08957905629784384,200,200 replicates
+syllable shapes,0.5,1.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.5,1.0,FPC excess > 0.01,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.5,2.0,prediction strength,15,200,0.075,0.045974507057252416,0.12004459797332034,200,200 replicates
+syllable shapes,0.5,2.0,silhouette,23,200,0.115,0.07786317221824318,0.16664825233886393,200,200 replicates
+syllable shapes,0.5,2.0,bootstrap Jaccard,13,200,0.065,0.03837598764975976,0.10802003749917945,200,200 replicates
+syllable shapes,0.5,2.0,split-sample dip statistic,3,200,0.015,0.005114145184492387,0.043166480556278884,200,200 replicates
+syllable shapes,0.5,2.0,median dip p < 0.05,0,200,0.0,0.0,0.018846005918320894,200,200 replicates
+syllable shapes,0.5,2.0,FPC excess > 0.01,4,200,0.02,0.007804300176394188,0.050287865505193874,200,200 replicates
+syllable shapes,0.5,3.0,prediction strength,64,200,0.32,0.2592642960770526,0.38752026605354306,200,200 replicates
+syllable shapes,0.5,3.0,silhouette,69,200,0.345,0.2825968690139029,0.41324539282077655,200,200 replicates
+syllable shapes,0.5,3.0,bootstrap Jaccard,59,200,0.295,0.23613844271901735,0.3615884197074943,200,200 replicates
+syllable shapes,0.5,3.0,split-sample dip statistic,68,200,0.34,0.2779143922159556,0.40811632967790723,200,200 replicates
+syllable shapes,0.5,3.0,median dip p < 0.05,22,200,0.11,0.07377190160716048,0.16092798300912986,200,200 replicates
+syllable shapes,0.5,3.0,FPC excess > 0.01,37,200,0.185,0.13730116322736063,0.2445718205011816,200,200 replicates
+syllable shapes,0.5,4.0,prediction strength,166,200,0.83,0.7718399896049648,0.8757216464889435,200,200 replicates
+syllable shapes,0.5,4.0,silhouette,162,200,0.81,0.7499864142552062,0.8583290620754351,200,200 replicates
+syllable shapes,0.5,4.0,bootstrap Jaccard,160,200,0.8,0.7391436038882958,0.8495487925607118,200,200 replicates
+syllable shapes,0.5,4.0,split-sample dip statistic,183,200,0.915,0.8681031145576462,0.9462547005301477,200,200 replicates
+syllable shapes,0.5,4.0,median dip p < 0.05,172,200,0.86,0.8051000619915237,0.9013308137472852,200,200 replicates
+syllable shapes,0.5,4.0,FPC excess > 0.01,119,200,0.595,0.5257958199999483,0.6606234388755706,200,200 replicates
+syllable shapes,0.5,6.0,prediction strength,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,6.0,silhouette,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,6.0,bootstrap Jaccard,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,6.0,split-sample dip statistic,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,6.0,median dip p < 0.05,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,6.0,FPC excess > 0.01,199,200,0.995,0.9722256001302286,0.999116854010634,200,200 replicates
+syllable shapes,0.5,8.0,prediction strength,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,8.0,silhouette,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,8.0,bootstrap Jaccard,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,8.0,split-sample dip statistic,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,8.0,median dip p < 0.05,200,200,1.0,0.9811539940816791,1.0,200,200 replicates
+syllable shapes,0.5,8.0,FPC excess > 0.01,200,200,1.0,0.9811539940816791,1.0,200,200 replicates

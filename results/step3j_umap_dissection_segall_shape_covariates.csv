@@ -1,0 +1,7 @@
+covariate,AUC_for_small_cluster,median_small,median_rest
+snr_db,0.5574659088191688,31.816967964172363,28.71848964691162
+span_len_s,0.8081310866433115,0.154622,0.082362
+Cramer V with channel,0.22327665434091107,,
+Cramer V with month,0.26778946325685965,,
+Cramer V with bat,0.3911131686761276,,
+Cramer V with stratum,0.40657354968622383,,

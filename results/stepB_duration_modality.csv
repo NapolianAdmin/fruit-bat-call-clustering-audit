@@ -1,0 +1,7 @@
+set,variable,n,dip,dip_p,BIC_best_k,dBIC_k1_minus_best,dBIC_k2_minus_best
+B_mic_voiced_ref1,log10 voiced duration,12417,0.0151,0.0,5,1101.8,306.3
+B_mic_voiced_ref1,log10 file length,12417,0.0176,0.0,5,2509.9,694.4
+B_mic_voiced_ref1,SNR,12415,0.0018,0.9959,4,2262.2,204.5
+B_al_voiced_ref1,log10 voiced duration,12417,0.0124,0.0,3,1021.7,78.0
+B_al_voiced_ref1,log10 file length,12417,0.0176,0.0,5,2511.3,695.0
+B_al_voiced_ref1,SNR,8694,0.002,0.9985,3,136.1,11.9

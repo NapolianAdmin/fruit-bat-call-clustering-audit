@@ -1,0 +1,3 @@
+# Note on the reference list (moved out of the manuscript and supplement)
+
+On 8 October 2026 every entry except the classical methods papers of 1984-1991 (Bezdek, Xie-Beni, Rousseeuw, Hubert-Arabie), librosa and scikit-learn was matched against bibliographic records found by web search (journal, PubMed, arXiv or repository pages); those exceptions were written from memory or taken from the project documents. The volume, pages and DOIs of Fischer et al., Adolfsson et al., Elie et al. and Hagiwara were then confirmed against Crossref records on 9 October 2026. Author lists of more than six authors are shortened to the first three plus "et al.". Final formatting should be checked against the publisher pages before submission.

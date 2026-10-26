@@ -1,0 +1,4 @@
+features,n,balanced_accuracy,accuracy,majority_baseline,classes
+log duration only,30000,0.06627999774302981,0.2883,0.3438,13
+shape PCs only (duration-free),30000,0.1975982162883765,0.5078,0.3438,13
+shape PCs + log duration,30000,0.20263363034583334,0.5084,0.3438,13

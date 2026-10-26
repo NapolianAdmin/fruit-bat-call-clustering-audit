@@ -1,0 +1,46 @@
+set,method,k,aligned_with,NMI,n
+segall_shape,KMeans,2,channel,0.01458996774126163,30000
+segall_shape,KMeans,2,month,0.014943756161010985,30000
+segall_shape,KMeans,2,context,0.025008466420938406,30000
+segall_shape,KMeans,2,bat(+ only),0.033957103050044346,13364
+segall_shape,KMeans,2,SNR bin (quintile),0.0801165952872471,30000
+segall_shape,GMM-diag,2,channel,0.005485140137713045,30000
+segall_shape,GMM-diag,2,month,0.005895404812009907,30000
+segall_shape,GMM-diag,2,context,0.044785065952539255,30000
+segall_shape,GMM-diag,2,bat(+ only),0.02892642052683765,13364
+segall_shape,GMM-diag,2,SNR bin (quintile),0.021855140879741303,30000
+segall_shape,FCM,2,channel,0.01625202370586509,30000
+segall_shape,FCM,2,month,0.016770401511574766,30000
+segall_shape,FCM,2,context,0.025519195298910644,30000
+segall_shape,FCM,2,bat(+ only),0.03605831970046938,13364
+segall_shape,FCM,2,SNR bin (quintile),0.07594531183061665,30000
+segall_mfcc,KMeans,2,channel,0.09852200658030127,30000
+segall_mfcc,KMeans,2,month,0.037555541124093754,30000
+segall_mfcc,KMeans,2,context,0.027620288694097408,30000
+segall_mfcc,KMeans,2,bat(+ only),0.06613727353439632,13364
+segall_mfcc,KMeans,2,SNR bin (quintile),0.0019018936576101302,30000
+segall_mfcc,GMM-diag,2,channel,0.003354966074574941,30000
+segall_mfcc,GMM-diag,2,month,0.006718137751548741,30000
+segall_mfcc,GMM-diag,2,context,0.01024857601634199,30000
+segall_mfcc,GMM-diag,2,bat(+ only),0.011865335659187286,13364
+segall_mfcc,GMM-diag,2,SNR bin (quintile),0.03142697940825361,30000
+segall_mfcc,FCM,2,channel,0.07583008438585763,30000
+segall_mfcc,FCM,2,month,0.04956515901693779,30000
+segall_mfcc,FCM,2,context,0.032885542835755455,30000
+segall_mfcc,FCM,2,bat(+ only),0.06299296795770619,13364
+segall_mfcc,FCM,2,SNR bin (quintile),0.0040882029963181365,30000
+segall_spec,KMeans,2,channel,0.027068336532012863,30000
+segall_spec,KMeans,2,month,0.00714424457070697,30000
+segall_spec,KMeans,2,context,0.010009594359359218,30000
+segall_spec,KMeans,2,bat(+ only),0.033917980487362956,13364
+segall_spec,KMeans,2,SNR bin (quintile),0.07102111733919943,30000
+segall_spec,GMM-diag,2,channel,0.029833520364066782,30000
+segall_spec,GMM-diag,2,month,0.018340818354083906,30000
+segall_spec,GMM-diag,2,context,0.035722421469013624,30000
+segall_spec,GMM-diag,2,bat(+ only),0.016320809984641742,13364
+segall_spec,GMM-diag,2,SNR bin (quintile),0.057172984603383666,30000
+segall_spec,FCM,2,channel,0.0289329326988298,30000
+segall_spec,FCM,2,month,0.007273009860729761,30000
+segall_spec,FCM,2,context,0.010378191821667462,30000
+segall_spec,FCM,2,bat(+ only),0.03482526624320098,13364
+segall_spec,FCM,2,SNR bin (quintile),0.06797662023890359,30000

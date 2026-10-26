@@ -1,0 +1,46 @@
+set,method,k,aligned_with,NMI,n
+segall_vae8_b0.1,KMeans,2,channel,0.009748273548603425,13510
+segall_vae8_b0.1,KMeans,2,month,0.010323080013954988,13510
+segall_vae8_b0.1,KMeans,2,context,0.014638799648869072,13510
+segall_vae8_b0.1,KMeans,2,bat(+ only),0.026031536168805387,6603
+segall_vae8_b0.1,KMeans,2,SNR bin (quintile),0.10936225533291102,13510
+segall_vae8_b0.1,GMM-diag,2,channel,0.003726648308942259,13510
+segall_vae8_b0.1,GMM-diag,2,month,0.002845291196030354,13510
+segall_vae8_b0.1,GMM-diag,2,context,0.01621976519584596,13510
+segall_vae8_b0.1,GMM-diag,2,bat(+ only),0.018801537655007243,6603
+segall_vae8_b0.1,GMM-diag,2,SNR bin (quintile),0.02581553782751767,13510
+segall_vae8_b0.1,FCM,2,channel,0.008856177068424769,13510
+segall_vae8_b0.1,FCM,2,month,0.006363667273007964,13510
+segall_vae8_b0.1,FCM,2,context,0.009736560197169916,13510
+segall_vae8_b0.1,FCM,2,bat(+ only),0.017463127892316986,6603
+segall_vae8_b0.1,FCM,2,SNR bin (quintile),0.00021169027538291938,13510
+segall_vae8_b1.0,KMeans,2,channel,0.007624585987405091,13510
+segall_vae8_b1.0,KMeans,2,month,0.021868947136374592,13510
+segall_vae8_b1.0,KMeans,2,context,0.014003580347953324,13510
+segall_vae8_b1.0,KMeans,2,bat(+ only),0.038200873422045305,6603
+segall_vae8_b1.0,KMeans,2,SNR bin (quintile),0.03047372498573426,13510
+segall_vae8_b1.0,GMM-diag,2,channel,0.006967658157872532,13510
+segall_vae8_b1.0,GMM-diag,2,month,0.013126534889141589,13510
+segall_vae8_b1.0,GMM-diag,2,context,0.011115578424723918,13510
+segall_vae8_b1.0,GMM-diag,2,bat(+ only),0.030043081606276296,6603
+segall_vae8_b1.0,GMM-diag,2,SNR bin (quintile),0.009992441298798827,13510
+segall_vae8_b1.0,FCM,2,channel,0.00573187675500323,13510
+segall_vae8_b1.0,FCM,2,month,0.029963562748200744,13510
+segall_vae8_b1.0,FCM,2,context,0.017615001112064925,13510
+segall_vae8_b1.0,FCM,2,bat(+ only),0.0455570396644276,6603
+segall_vae8_b1.0,FCM,2,SNR bin (quintile),0.03319012012581009,13510
+segall_pca8,KMeans,2,channel,0.01549767514164733,13510
+segall_pca8,KMeans,2,month,0.022127737491123567,13510
+segall_pca8,KMeans,2,context,0.021308464304754048,13510
+segall_pca8,KMeans,2,bat(+ only),0.04169898074708868,6603
+segall_pca8,KMeans,2,SNR bin (quintile),0.06446973066980687,13510
+segall_pca8,GMM-diag,2,channel,0.007137502541796753,13510
+segall_pca8,GMM-diag,2,month,0.010520233822155936,13510
+segall_pca8,GMM-diag,2,context,0.018622177026477418,13510
+segall_pca8,GMM-diag,2,bat(+ only),0.026133939121706386,6603
+segall_pca8,GMM-diag,2,SNR bin (quintile),0.045949964871079954,13510
+segall_pca8,FCM,2,channel,0.01817946597002957,13510
+segall_pca8,FCM,2,month,0.01436103244133706,13510
+segall_pca8,FCM,2,context,0.01787328621861942,13510
+segall_pca8,FCM,2,bat(+ only),0.022561043009815786,6603
+segall_pca8,FCM,2,SNR bin (quintile),0.010895887317721613,13510

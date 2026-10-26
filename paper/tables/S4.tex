@@ -1,0 +1,19 @@
+\begin{table}[htbp]\centering\scriptsize
+\caption{\textbf{Table S4.} Separability of pups' Isolation calls from all other contexts, as the area under the ROC curve (AUC; 0.5 = none) of out-of-fold scores of a balanced logistic regression on 50 principal components, for voiced file-level features (41,116 files) and syllable shapes (30,000 syllables). Validation unit: whole bats (five folds blocked by bat) unless the row states another held-out unit; brackets are 95\% intervals from resampling whole bats; ranges and counts refer to the groups listed in the row (Table S4b gives each group's sample size).}\label{tab:S4}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{lcc}
+\toprule
+analysis & voiced file features & syllable shape \\
+\midrule
+all files, folds blocked by bat & 0.984 [0.979, 0.991] & 0.956 [0.944, 0.974] \\
+pups only, folds blocked by bat & 0.982 [0.969, 0.990] & 0.951 [0.920, 0.975] \\
+pups only, within channel$\times$month strata (weighted mean) & 0.902 & 0.846 \\
+without the unknown-emitter group (57\% of Isolation files) & 0.984 [0.974, 0.992] & 0.952 [0.926, 0.974] \\
+per identified pup (median; range; number of pups) & 0.971; 0.83--1.00; 15 & 0.942; 0.71--1.00; 14 \\
+each channel held out (weighted mean; range; number) & 0.983; 0.93--0.99; 8 & 0.945; 0.89--0.98; 7 \\
+each treatment held out (weighted mean; range; number) & 0.986; 0.95--1.00; 6 & 0.954; 0.92--0.97; 6 \\
+pup age windows (file-weighted mean over windows with at least 15 recordings per class; per window in Table S4b) & 0.931 & 0.876 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

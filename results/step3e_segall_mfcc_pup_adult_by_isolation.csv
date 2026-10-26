@@ -1,0 +1,5 @@
+status,isolation_context,files,share_minority,bats
+adult (wild-caught),Isolation,1,0.0,1
+adult (wild-caught),other contexts,6458,0.6859708888200682,21
+pup (born in setup),Isolation,474,0.07383966244725738,18
+pup (born in setup),other contexts,6431,0.3685274451873737,20

@@ -1,0 +1,25 @@
+subset,term,logit_diff_vs_General,ci95_lo,ci95_hi
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Biting],0.04909497130870364,0.0020180439517321694,0.0961718986656751
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Feeding],0.049038488975958264,0.02292117469280253,0.075155803259114
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Fighting],-0.25138454553519735,-0.27622204277443607,-0.22654704829595862
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Grooming],0.011189302808753406,-0.053105425571453854,0.07548403118896067
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Isolation],0.49084955886995413,0.4560119011489939,0.5256872165909143
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Kissing],0.030023852721089307,-0.036037954440684625,0.09608565988286323
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Landing],0.27379561378690354,-0.031180687082474345,0.5787719146562814
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Mating protest],0.23290656127990192,0.1928156658986165,0.27299745666118735
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Separation],0.10560385678866702,0.03501765637938237,0.17619005719795167
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Sleeping],0.05265638037796691,0.03493047702301315,0.07038228373292067
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Threat-like],-0.08183184146656876,-0.1377964588668518,-0.025867224066285728
+"all unique files (bat=|emitter|; 0=unknown, neg=pair-labelled)",context[T.Unknown],0.05123258711790255,-0.011058909653277701,0.1135240838890828
+positive-emitter files only (real bat identity),context[T.Biting],0.04450029771393214,-0.011251611694287761,0.10025220712215203
+positive-emitter files only (real bat identity),context[T.Feeding],0.04920954025157282,0.001129803576252142,0.0972892769268935
+positive-emitter files only (real bat identity),context[T.Fighting],-0.2496768888477823,-0.32490651581293406,-0.17444726188263054
+positive-emitter files only (real bat identity),context[T.Grooming],-0.048303090098314225,-0.13207236552430596,0.035466185327677494
+positive-emitter files only (real bat identity),context[T.Isolation],0.36106579023311236,0.3053103857920506,0.4168211946741741
+positive-emitter files only (real bat identity),context[T.Kissing],-0.009579583765790212,-0.09704023792683661,0.07788107039525619
+positive-emitter files only (real bat identity),context[T.Landing],0.41260811181760093,-0.06865599995723981,0.8938722235924417
+positive-emitter files only (real bat identity),context[T.Mating protest],0.2627650959272498,0.2167917616057659,0.30873843024873365
+positive-emitter files only (real bat identity),context[T.Separation],0.177651035359622,0.09359392789275321,0.2617081428264908
+positive-emitter files only (real bat identity),context[T.Sleeping],0.027085846080249023,1.4729498511983213e-05,0.054156962661986066
+positive-emitter files only (real bat identity),context[T.Threat-like],-0.07330406013587984,-0.1511263149446103,0.004518194672850612
+positive-emitter files only (real bat identity),context[T.Unknown],0.03019257785120246,-0.0788893138838482,0.1392744695862531

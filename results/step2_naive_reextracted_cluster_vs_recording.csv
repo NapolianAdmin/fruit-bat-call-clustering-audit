@@ -1,0 +1,16 @@
+variant,covariate,n,AUC,ci_lo,ci_hi,direction
+naive_refmax,silence_fraction,2360,0.853,0.805,0.896,cluster1 lower
+naive_refmax,span_len_s,2360,0.878,0.855,0.9,cluster1 higher
+naive_refmax,voiced_dur_s,2360,0.895,0.863,0.924,cluster1 higher
+naive_refmax,noise_floor_dbfs,2360,0.754,0.712,0.786,cluster1 higher
+naive_refmax,snr_db,2360,0.586,0.549,0.628,cluster1 higher
+naive_ref1,silence_fraction,2360,0.869,0.827,0.903,cluster1 lower
+naive_ref1,span_len_s,2360,0.882,0.86,0.906,cluster1 higher
+naive_ref1,voiced_dur_s,2360,0.908,0.884,0.933,cluster1 higher
+naive_ref1,noise_floor_dbfs,2360,0.788,0.754,0.811,cluster1 higher
+naive_ref1,snr_db,2360,0.532,0.499,0.565,cluster1 higher
+naive_notop,silence_fraction,2360,0.87,0.83,0.903,cluster1 lower
+naive_notop,span_len_s,2360,0.882,0.86,0.906,cluster1 higher
+naive_notop,voiced_dur_s,2360,0.91,0.887,0.934,cluster1 higher
+naive_notop,noise_floor_dbfs,2360,0.787,0.753,0.811,cluster1 higher
+naive_notop,snr_db,2360,0.53,0.497,0.564,cluster1 higher

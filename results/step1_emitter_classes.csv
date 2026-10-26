@@ -1,0 +1,4 @@
+em_class,rows,files,distinct_abs_codes,share_of_rows
+"negative(pair, role in doubt)",44075,43321,41,0.48391523935002195
+positive,39147,38542,41,0.42980895915678524
+zero(unknown),7858,7755,1,0.08627580149319279

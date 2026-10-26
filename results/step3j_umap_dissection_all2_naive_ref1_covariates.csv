@@ -1,0 +1,10 @@
+covariate,AUC_for_small_cluster,median_small,median_rest
+voiced_dur_s,0.4201061005099174,0.155332,0.190804
+silence_fraction,0.5931295229455926,0.8970583115752828,0.8743668728388447
+span_len_s,0.4587624379492724,1.412416,1.477952
+n_voiced_seg,0.45577372427047436,2.0,2.0
+clip_frac,0.5,0.0,0.0
+Cramer V with channel,0.6014860032662667,,
+Cramer V with month,0.5408007222195378,,
+Cramer V with bat,0.5029678254801077,,
+Cramer V with stratum,0.7718217333929873,,

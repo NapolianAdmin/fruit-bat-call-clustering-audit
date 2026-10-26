@@ -1,0 +1,37 @@
+\begin{table}[htbp]\centering\scriptsize
+\caption{\textbf{Table S7.} Fifteen clustering algorithms (26 variants) on 19 representations ($n\le6{,}000$ each): per variant, the number of representations with an admissible partition (at least two clusters holding $\ge1\%$ of the points), the median silhouette of its best configuration, the number of representations whose best configuration has silhouette $\ge0.25$, the median bat-transfer ARI, and the number of the 17 representations with context labels in which the best-silhouette configuration (best) or any configuration (any) contains a cluster with precision $\ge0.7$ and recall $\ge0.5$ for pups' Isolation calls. Silhouette: mean silhouette width of non-noise points (3,000-point subsample); ARI: adjusted Rand index between a half-bat fit transferred to the other half and a fit on that half.}\label{tab:S7}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{lcccccc}
+\toprule
+algorithm / variant & admissible & median sil. & sil.$\ge0.25$ & median transfer ARI & Isolation (best) & Isolation (any) \\
+\midrule
+k-means & 19 & 0.17 & 4 & 0.58 & 1 & 7 \\
+fuzzy c-means & 19 & 0.14 & 2 & 0.53 & 0 & 0 \\
+k-medoids (PAM) & 19 & 0.15 & 4 & 0.28 & 1 & 6 \\
+ward linkage & 19 & 0.17 & 6 & 0.27 & 5 & 10 \\
+average linkage & 7 & 0.28 & 5 & 0.21 & 3 & 3 \\
+complete linkage & 17 & 0.26 & 10 & 0.22 & 0 & 1 \\
+single linkage & 0 & -- & 0 & -- & 0 & 0 \\
+spectral (15-NN) & 19 & 0.25 & 10 & 0.67 & 9 & 13 \\
+BIRCH & 19 & 0.17 & 4 & 0.27 & 5 & 10 \\
+GMM-spherical & 19 & 0.16 & 3 & 0.47 & 1 & 2 \\
+GMM-diag & 19 & 0.13 & 2 & 0.25 & 1 & 5 \\
+GMM-tied & 19 & 0.18 & 5 & 0.27 & 6 & 11 \\
+GMM-full & 19 & 0.15 & 0 & 0.45 & 2 & 7 \\
+Bayesian GMM (Dirichlet process) & 11 & -0.01 & 0 & 0.26 & 0 & 0 \\
+DBSCAN eps=p50 & 6 & 0.23 & 2 & 0.27 & 0 & 0 \\
+DBSCAN eps=p75 & 4 & 0.29 & 3 & 0.51 & 0 & 0 \\
+DBSCAN eps=p90 & 0 & -- & 0 & -- & 0 & 0 \\
+OPTICS (xi 0.05) & 0 & -- & 0 & -- & 0 & 0 \\
+HDBSCAN min 25 & 6 & 0.36 & 5 & 0.27 & 0 & 0 \\
+HDBSCAN min 100 & 4 & 0.32 & 2 & 0.00 & 0 & 0 \\
+mean-shift & 7 & 0.30 & 6 & 0.41 & 0 & 0 \\
+affinity propagation & 19 & 0.06 & 0 & 0.17 & 0 & 0 \\
+Louvain (15-NN graph) & 19 & 0.06 & 0 & 0.32 & 9 & 9 \\
+Leiden res 1.0 (15-NN graph) & 19 & 0.07 & 0 & 0.33 & 11 & 11 \\
+Leiden res 0.1 (15-NN graph) & 11 & 0.28 & 8 & 0.31 & 6 & 6 \\
+self-organising map 3x3 & 19 & 0.09 & 0 & 0.30 & 7 & 7 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

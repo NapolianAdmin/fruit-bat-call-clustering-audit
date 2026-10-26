@@ -1,0 +1,55 @@
+set,method,k,aligned_with,NMI,n
+baseline_naive_ref1,KMeans,2,channel,0.052034134062953555,2360
+baseline_naive_ref1,KMeans,2,month,0.06214506002633506,2360
+baseline_naive_ref1,KMeans,2,context,0.07331687502107224,2360
+baseline_naive_ref1,KMeans,2,bat(+ only),0.06214699768450331,1180
+baseline_naive_ref1,KMeans,2,silence_fraction bin (quintile),0.20308583753565915,2360
+baseline_naive_ref1,KMeans,2,SNR bin (quintile),0.00973761821487383,2360
+baseline_naive_ref1,GMM-diag,2,channel,0.010646186025169781,2360
+baseline_naive_ref1,GMM-diag,2,month,0.014275444949376177,2360
+baseline_naive_ref1,GMM-diag,2,context,0.08259046906884604,2360
+baseline_naive_ref1,GMM-diag,2,bat(+ only),0.04186974817361536,1180
+baseline_naive_ref1,GMM-diag,2,silence_fraction bin (quintile),0.00469480914497896,2360
+baseline_naive_ref1,GMM-diag,2,SNR bin (quintile),0.030508900857021966,2360
+baseline_naive_ref1,FCM,2,channel,0.052737845473094624,2360
+baseline_naive_ref1,FCM,2,month,0.061135960442843355,2360
+baseline_naive_ref1,FCM,2,context,0.07032156626826473,2360
+baseline_naive_ref1,FCM,2,bat(+ only),0.05771638718636053,1180
+baseline_naive_ref1,FCM,2,silence_fraction bin (quintile),0.20101136745171141,2360
+baseline_naive_ref1,FCM,2,SNR bin (quintile),0.007349889465939742,2360
+baseline_voiced_ref1,KMeans,2,channel,0.04964063558524416,2360
+baseline_voiced_ref1,KMeans,2,month,0.07372144287600174,2360
+baseline_voiced_ref1,KMeans,2,context,0.10116095262031119,2360
+baseline_voiced_ref1,KMeans,2,bat(+ only),0.053746967660761445,1180
+baseline_voiced_ref1,KMeans,2,silence_fraction bin (quintile),0.0637212380429282,2360
+baseline_voiced_ref1,KMeans,2,SNR bin (quintile),0.06602073264060786,2360
+baseline_voiced_ref1,GMM-diag,2,channel,0.008243265084059849,2360
+baseline_voiced_ref1,GMM-diag,2,month,0.014244931584395845,2360
+baseline_voiced_ref1,GMM-diag,2,context,0.09142085483166026,2360
+baseline_voiced_ref1,GMM-diag,2,bat(+ only),0.045853967016615586,1180
+baseline_voiced_ref1,GMM-diag,2,silence_fraction bin (quintile),0.02090550053276201,2360
+baseline_voiced_ref1,GMM-diag,2,SNR bin (quintile),0.014416154604967634,2360
+baseline_voiced_ref1,FCM,2,channel,0.05156928439453397,2360
+baseline_voiced_ref1,FCM,2,month,0.07461927583196039,2360
+baseline_voiced_ref1,FCM,2,context,0.08215811255083488,2360
+baseline_voiced_ref1,FCM,2,bat(+ only),0.054954881325335936,1180
+baseline_voiced_ref1,FCM,2,silence_fraction bin (quintile),0.08868191274120373,2360
+baseline_voiced_ref1,FCM,2,SNR bin (quintile),0.04907855400857341,2360
+baseline_mfcc_voiced,KMeans,2,channel,0.034851750567708055,2360
+baseline_mfcc_voiced,KMeans,2,month,0.04088791327867639,2360
+baseline_mfcc_voiced,KMeans,2,context,0.22578086850330414,2360
+baseline_mfcc_voiced,KMeans,2,bat(+ only),0.08720230275068093,1180
+baseline_mfcc_voiced,KMeans,2,silence_fraction bin (quintile),0.010038689174087054,2360
+baseline_mfcc_voiced,KMeans,2,SNR bin (quintile),0.0031349508025786134,2360
+baseline_mfcc_voiced,GMM-diag,2,channel,0.03040810799582663,2360
+baseline_mfcc_voiced,GMM-diag,2,month,0.03508745176047479,2360
+baseline_mfcc_voiced,GMM-diag,2,context,0.09306575020087622,2360
+baseline_mfcc_voiced,GMM-diag,2,bat(+ only),0.07780597737189193,1180
+baseline_mfcc_voiced,GMM-diag,2,silence_fraction bin (quintile),0.16356377529474467,2360
+baseline_mfcc_voiced,GMM-diag,2,SNR bin (quintile),0.017789900406248855,2360
+baseline_mfcc_voiced,FCM,2,channel,0.0231441444690214,2360
+baseline_mfcc_voiced,FCM,2,month,0.009390748876664941,2360
+baseline_mfcc_voiced,FCM,2,context,0.12263296624742011,2360
+baseline_mfcc_voiced,FCM,2,bat(+ only),0.09205557022017384,1180
+baseline_mfcc_voiced,FCM,2,silence_fraction bin (quintile),0.003177851632500269,2360
+baseline_mfcc_voiced,FCM,2,SNR bin (quintile),0.0007480079921531356,2360

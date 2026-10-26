@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it.
+title: "Discrete or graded? A confound-controlled re-analysis of clustering in Egyptian fruit bat (Rousettus aegyptiacus) social calls"
+authors:
+  - family-names: Rai
+    given-names: Ninad
+license: MIT
+type: software

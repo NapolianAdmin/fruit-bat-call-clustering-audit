@@ -1,0 +1,4 @@
+representation,n,FPC_c2,silhouette_fcm,kmeans_silhouette_k2,AUC_label_vs_silence_fraction,AUC_label_vs_voiced_dur_s,AUC_label_vs_span_len_s,FPC2_excess,Silhouette2,PS2,Jaccard2,DipSplit,DipSplit_median_p_observed
+"whole-span 1,408 (draft features)",12000.0,0.5861464174305827,0.23557694256305695,0.24407356977462769,0.8985472421816145,0.9146670265661425,0.8424574379750347,,,,,,
+"voiced 1,408",12000.0,0.5000000801195997,0.14778247475624084,0.14476604759693146,0.7204209752954969,0.7483733767384775,0.7564093499019094,,,,,,
+"voiced 1,408: k=1-allowed battery (observed | null mean | null 95th pct | null min)",,,,,,,,0.0000 | 0.0000 | 0.0000 | 0.0000,0.1478 | 0.1331 | 0.1375 | 0.1287,0.6987 | 0.9515 | 0.9641 | 0.9336,0.8795 | 0.9851 | 0.9877 | 0.9823,0.0027 | 0.0030 | 0.0036 | 0.0026,0.9957618342069618

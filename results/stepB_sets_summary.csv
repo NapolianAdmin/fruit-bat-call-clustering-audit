@@ -1,0 +1,9 @@
+set,N,d,individuals,days
+B_mic_voiced_ref1,12417,1408,10,13
+B_mic_naive_ref1,12417,1408,10,13
+B_mic_mfcc_voiced,12417,120,10,13
+B_mic_mfcc_naive,12417,120,10,13
+B_al_voiced_ref1,12417,1408,10,13
+B_al_naive_ref1,12417,1408,10,13
+B_al_mfcc_voiced,12417,120,10,13
+B_al_mfcc_naive,12417,120,10,13

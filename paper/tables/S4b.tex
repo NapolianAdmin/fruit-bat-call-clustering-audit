@@ -1,0 +1,37 @@
+\begin{table}[htbp]\centering\scriptsize
+\caption{\textbf{Table S4b.} Isolation versus other contexts within strata: recordings (files or syllables), Isolation (positive) and other-context (negative) counts, number of unique bats (pups for age windows) and AUC of the leave-bats-out score with a 95\% percentile interval from 1,000 bootstrap resamples of whole bats. Age windows are days since birth for the 20 pups with known birth dates (pup age stratum), evaluated only with at least 15 recordings per class; the windows were fixed once at analysis time as an exploratory control after the Isolation group had been found, not pre-specified. Channel/treatment held out: model trained on all other channels (treatments), scored on the held-out one; evaluated only with at least 20 per class. Intervals reflect resampling of bats among scored recordings and do not include model-fitting variability. Youngest pups (0--40 days) contribute almost only Isolation recordings, so age and context cannot be separated there, and the lower AUC at 40--60 days should not be read as the same distinctness at every developmental stage.}\label{tab:S4b}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{llrrrrrl}
+\toprule
+stratum & features & group & recordings & Isolation & other & bats & AUC [95\% CI] \\
+\midrule
+pup age (days) & voiced file features & [0, 20) & 74 & 74 & 0 & 9 & not evaluated (< 15 per class) \\
+ & voiced file features & [20, 40) & 113 & 109 & 4 & 16 & not evaluated (< 15 per class) \\
+ & voiced file features & [40, 60) & 485 & 352 & 133 & 18 & 0.698 [0.613, 0.781] \\
+ & voiced file features & [60, 90) & 1,275 & 584 & 691 & 20 & 0.929 [0.890, 0.957] \\
+ & voiced file features & [90, 150) & 2,749 & 44 & 2,705 & 16 & 0.973 [0.918, 0.996] \\
+ & voiced file features & [150, 400) & 6,491 & 13 & 6,478 & 16 & not evaluated (< 15 per class) \\
+ & syllable shape & [0, 20) & 36 & 36 & 0 & 9 & not evaluated (< 15 per class) \\
+ & syllable shape & [20, 40) & 55 & 52 & 3 & 13 & not evaluated (< 15 per class) \\
+ & syllable shape & [40, 60) & 196 & 138 & 58 & 18 & 0.720 [0.601, 0.823] \\
+ & syllable shape & [60, 90) & 659 & 225 & 434 & 20 & 0.906 [0.851, 0.940] \\
+ & syllable shape & [90, 150) & 1,531 & 20 & 1,511 & 16 & 0.883 [0.629, 0.980] \\
+ & syllable shape & [150, 400) & 3,935 & 3 & 3,932 & 16 & not evaluated (< 15 per class) \\
+channel held out & voiced file features & 1 & 14,854 & 952 & 13,902 & 20 & 0.988 [0.971, 0.994] \\
+ & voiced file features & 2 & 3,127 & 279 & 2,848 & 21 & 0.978 [0.950, 0.996] \\
+ & voiced file features & 3 & 3,476 & 308 & 3,168 & 11 & 0.980 [0.954, 0.995] \\
+ & voiced file features & 4 & 3,353 & 274 & 3,079 & 18 & 0.973 [0.935, 0.996] \\
+ & voiced file features & 9 & 818 & 93 & 725 & 14 & 0.981 [0.961, 0.999] \\
+ & voiced file features & 10 & 116 & 28 & 88 & 3 & 0.930 [interval not meaningful, 3 bat(s)] \\
+ & voiced file features & 11 & 1,790 & 441 & 1,349 & 10 & 0.983 [0.965, 0.997] \\
+ & voiced file features & 12 & 3,462 & 304 & 3,158 & 9 & 0.981 [0.941, 0.992] \\
+treatment held out & voiced file features & 1 & 2,388 & 481 & 1,907 & 9 & 0.980 [0.959, 0.997] \\
+ & voiced file features & 2 & 3,993 & 341 & 3,652 & 8 & 0.979 [0.929, 0.991] \\
+ & voiced file features & 9 & 6,133 & 491 & 5,642 & 10 & 0.981 [0.965, 0.995] \\
+ & voiced file features & 10 & 5,151 & 1,029 & 4,122 & 13 & 0.980 [0.955, 0.988] \\
+ & voiced file features & 13 & 92 & 50 & 42 & 1 & 0.951 [interval not meaningful, 1 bat(s)] \\
+ & voiced file features & 17 & 9,930 & 202 & 9,728 & 6 & 0.996 [0.986, 0.999] \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

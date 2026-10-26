@@ -1,0 +1,2 @@
+tag,n,mcs,small_cluster_files,small_cluster_share,n_bats_in_small,P_small_given_isolation,P_isolation_given_small,isolation_share_all,nmi_isolation,nmi_null_mean,nmi_null_max,heldout_dip_median_p,heldout_dip_frac_p05,heldout_dprime_mean
+all2_voiced_ref1,12000,100,770,0.06416666666666666,30,0.8295739348370927,0.8597402597402597,0.0665,0.6511913757473865,0.06216549327356545,0.08261002013760284,0.1883882695056549,0.5,6.9868923796266476

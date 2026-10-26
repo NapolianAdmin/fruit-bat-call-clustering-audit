@@ -1,0 +1,15 @@
+set,age_window_days,n_isolation,n_other,bats,AUC
+all2_voiced_ref1,"[0, 20)",74,0,9,
+all2_voiced_ref1,"[20, 40)",109,4,16,
+all2_voiced_ref1,"[40, 60)",352,133,18,0.6979451469583049
+all2_voiced_ref1,"[60, 90)",584,691,20,0.9294773308486807
+all2_voiced_ref1,"[90, 150)",44,2705,16,0.9730633506973618
+all2_voiced_ref1,"[150, 400)",13,6478,16,
+all2_voiced_ref1,WEIGHTED MEAN over windows with >= 15 per class,1176,10436,20,0.9311461841148577
+segall_shape,"[0, 20)",36,0,9,
+segall_shape,"[20, 40)",52,3,13,
+segall_shape,"[40, 60)",138,58,18,0.7195152423788106
+segall_shape,"[60, 90)",225,434,20,0.9059907834101383
+segall_shape,"[90, 150)",20,1511,16,0.8834546657842488
+segall_shape,"[150, 400)",3,3932,16,
+segall_shape,WEIGHTED MEAN over windows with >= 15 per class,474,6431,20,0.8762120733818997

@@ -1,0 +1,18 @@
+\begin{table}[htbp]\centering\scriptsize
+\caption{\textbf{Table S6.} Sensitivity of the voiced-feature conclusions to preprocessing and the number of principal components (PCs), 12,000 files. FPC$-$0.5 = fuzzy partition coefficient excess at $c=2$; $k$-means sil. = silhouette at $k=2$; PS = prediction strength at $k=2$ (halves split by bat); dip $p$ = median split-sample dip $p$ value; Isolation AUC from all 41,116 files with folds blocked by bat; the last two columns give the orientation-free AUC of the fuzzy $c=2$ label against silence fraction and voiced duration.}\label{tab:S6}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{llccccccc}
+\toprule
+preprocessing & PCs & FPC$-$0.5 & $k$-means sil. & PS & dip $p$ (median) & Isolation AUC & label vs silence & label vs duration \\
+\midrule
+standardise & 5 & 0.090 & 0.225 & 0.720 & 0.991 & 0.976 & 0.71 & 0.75 \\
+standardise & 10 & 0.024 & 0.177 & 0.722 & 0.992 & 0.980 & 0.72 & 0.75 \\
+standardise & 20 & 0.000 & 0.158 & 0.714 & 0.993 & 0.982 & 0.73 & 0.77 \\
+standardise & 50 & 0.000 & 0.141 & 0.717 & 0.994 & 0.983 & 0.73 & 0.76 \\
+standardise & 100 & 0.000 & 0.133 & 0.716 & 0.993 & 0.983 & 0.73 & 0.76 \\
+no scaling & 50 & 0.112 & 0.253 & 0.767 & 0.995 & 0.977 & 0.78 & 0.81 \\
+rank normal scores & 50 & 0.000 & 0.146 & 0.744 & 0.995 & 0.984 & 0.74 & 0.77 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

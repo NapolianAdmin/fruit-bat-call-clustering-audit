@@ -1,0 +1,5 @@
+status,isolation,files,share_small,bats
+adult,Isolation,1,1.0,1
+adult,other contexts,2584,0.005804953560371517,21
+pup,Isolation,202,0.8168316831683168,18
+pup,other contexts,2534,0.016574585635359115,20

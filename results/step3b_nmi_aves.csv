@@ -1,0 +1,109 @@
+set,method,k,aligned_with,NMI,n
+avessub_naive_ref1,KMeans,2,channel,0.0544451308613016,300
+avessub_naive_ref1,KMeans,2,month,0.02511192989542559,300
+avessub_naive_ref1,KMeans,2,context,0.0825651393309065,300
+avessub_naive_ref1,KMeans,2,bat(+ only),0.15793523745249127,133
+avessub_naive_ref1,KMeans,2,silence_fraction bin (quintile),0.17739338549382588,300
+avessub_naive_ref1,KMeans,2,SNR bin (quintile),0.00583545506176269,300
+avessub_naive_ref1,GMM-diag,2,channel,0.0707465014709394,300
+avessub_naive_ref1,GMM-diag,2,month,0.06589615827851698,300
+avessub_naive_ref1,GMM-diag,2,context,0.12786743677258056,300
+avessub_naive_ref1,GMM-diag,2,bat(+ only),0.11255189745709364,133
+avessub_naive_ref1,GMM-diag,2,silence_fraction bin (quintile),0.005325528523878955,300
+avessub_naive_ref1,GMM-diag,2,SNR bin (quintile),0.05497314553398257,300
+avessub_naive_ref1,FCM,2,channel,0.04917933483976468,300
+avessub_naive_ref1,FCM,2,month,0.01856963742952487,300
+avessub_naive_ref1,FCM,2,context,0.08112739911589244,300
+avessub_naive_ref1,FCM,2,bat(+ only),0.1422109259434783,133
+avessub_naive_ref1,FCM,2,silence_fraction bin (quintile),0.19280728009516382,300
+avessub_naive_ref1,FCM,2,SNR bin (quintile),0.004882058224184637,300
+avessub_voiced_ref1,KMeans,2,channel,0.10554143797770836,300
+avessub_voiced_ref1,KMeans,2,month,0.07724005241968933,300
+avessub_voiced_ref1,KMeans,2,context,0.2939467930253081,300
+avessub_voiced_ref1,KMeans,2,bat(+ only),0.17006458365966545,133
+avessub_voiced_ref1,KMeans,2,silence_fraction bin (quintile),0.014067168773009198,300
+avessub_voiced_ref1,KMeans,2,SNR bin (quintile),0.007456819723193184,300
+avessub_voiced_ref1,GMM-diag,2,channel,0.02852146134028436,300
+avessub_voiced_ref1,GMM-diag,2,month,0.02040549694336223,300
+avessub_voiced_ref1,GMM-diag,2,context,0.04021489707920539,300
+avessub_voiced_ref1,GMM-diag,2,bat(+ only),0.08435595687933474,133
+avessub_voiced_ref1,GMM-diag,2,silence_fraction bin (quintile),0.058656087304553024,300
+avessub_voiced_ref1,GMM-diag,2,SNR bin (quintile),0.020158702310700077,300
+avessub_voiced_ref1,FCM,2,channel,0.045457812837843475,300
+avessub_voiced_ref1,FCM,2,month,0.023208971199744487,300
+avessub_voiced_ref1,FCM,2,context,0.08647182810742655,300
+avessub_voiced_ref1,FCM,2,bat(+ only),0.1572385313339227,133
+avessub_voiced_ref1,FCM,2,silence_fraction bin (quintile),0.03602697943234276,300
+avessub_voiced_ref1,FCM,2,SNR bin (quintile),0.059401746888059236,300
+avessub_mfcc_voiced,KMeans,2,channel,0.08402868954033715,300
+avessub_mfcc_voiced,KMeans,2,month,0.06329571325049496,300
+avessub_mfcc_voiced,KMeans,2,context,0.2329788844585053,300
+avessub_mfcc_voiced,KMeans,2,bat(+ only),0.16375650077357082,133
+avessub_mfcc_voiced,KMeans,2,silence_fraction bin (quintile),0.017811573307187516,300
+avessub_mfcc_voiced,KMeans,2,SNR bin (quintile),0.0040541824163273,300
+avessub_mfcc_voiced,GMM-diag,2,channel,0.015118335704126837,300
+avessub_mfcc_voiced,GMM-diag,2,month,0.015402527521270134,300
+avessub_mfcc_voiced,GMM-diag,2,context,0.03367177735405404,300
+avessub_mfcc_voiced,GMM-diag,2,bat(+ only),0.08005629597700697,133
+avessub_mfcc_voiced,GMM-diag,2,silence_fraction bin (quintile),0.13802837015452665,300
+avessub_mfcc_voiced,GMM-diag,2,SNR bin (quintile),0.00913730294454827,300
+avessub_mfcc_voiced,FCM,2,channel,0.08420675564083915,300
+avessub_mfcc_voiced,FCM,2,month,0.05490198107670583,300
+avessub_mfcc_voiced,FCM,2,context,0.1739163678258215,300
+avessub_mfcc_voiced,FCM,2,bat(+ only),0.19683725942610655,133
+avessub_mfcc_voiced,FCM,2,silence_fraction bin (quintile),0.005890531830968406,300
+avessub_mfcc_voiced,FCM,2,SNR bin (quintile),0.001371573951552777,300
+aves_aves_ds16_naive,KMeans,2,channel,0.037211079932424,300
+aves_aves_ds16_naive,KMeans,2,month,0.014551936653607331,300
+aves_aves_ds16_naive,KMeans,2,context,0.09728346657427442,300
+aves_aves_ds16_naive,KMeans,2,bat(+ only),0.13773769284748413,133
+aves_aves_ds16_naive,KMeans,2,silence_fraction bin (quintile),0.17518455196704563,300
+aves_aves_ds16_naive,KMeans,2,SNR bin (quintile),0.01085112832608752,300
+aves_aves_ds16_naive,GMM-diag,2,channel,0.026287144379609443,300
+aves_aves_ds16_naive,GMM-diag,2,month,0.0541731759016301,300
+aves_aves_ds16_naive,GMM-diag,2,context,0.03435660169973862,300
+aves_aves_ds16_naive,GMM-diag,2,bat(+ only),0.09855639913615437,133
+aves_aves_ds16_naive,GMM-diag,2,silence_fraction bin (quintile),0.03491498364247961,300
+aves_aves_ds16_naive,GMM-diag,2,SNR bin (quintile),0.042600788194272585,300
+aves_aves_ds16_naive,FCM,2,channel,0.03137336723336726,300
+aves_aves_ds16_naive,FCM,2,month,0.012999638336142445,300
+aves_aves_ds16_naive,FCM,2,context,0.08419266730098497,300
+aves_aves_ds16_naive,FCM,2,bat(+ only),0.1256029280189571,133
+aves_aves_ds16_naive,FCM,2,silence_fraction bin (quintile),0.17455028059988165,300
+aves_aves_ds16_naive,FCM,2,SNR bin (quintile),0.018239983593502578,300
+aves_aves_ds16_voiced,KMeans,2,channel,0.08606809081420254,300
+aves_aves_ds16_voiced,KMeans,2,month,0.029971430166163163,300
+aves_aves_ds16_voiced,KMeans,2,context,0.17204393843303903,300
+aves_aves_ds16_voiced,KMeans,2,bat(+ only),0.1632586947213515,133
+aves_aves_ds16_voiced,KMeans,2,silence_fraction bin (quintile),0.006293980835872354,300
+aves_aves_ds16_voiced,KMeans,2,SNR bin (quintile),0.007804134963266392,300
+aves_aves_ds16_voiced,GMM-diag,2,channel,0.016576373665715766,300
+aves_aves_ds16_voiced,GMM-diag,2,month,0.014223882916044055,300
+aves_aves_ds16_voiced,GMM-diag,2,context,0.0190672306199306,300
+aves_aves_ds16_voiced,GMM-diag,2,bat(+ only),0.06045248986079123,133
+aves_aves_ds16_voiced,GMM-diag,2,silence_fraction bin (quintile),0.0900772101420195,300
+aves_aves_ds16_voiced,GMM-diag,2,SNR bin (quintile),0.009316869005842774,300
+aves_aves_ds16_voiced,FCM,2,channel,0.053303020530467364,300
+aves_aves_ds16_voiced,FCM,2,month,0.03491991177926969,300
+aves_aves_ds16_voiced,FCM,2,context,0.11945019242020241,300
+aves_aves_ds16_voiced,FCM,2,bat(+ only),0.13669212650282367,133
+aves_aves_ds16_voiced,FCM,2,silence_fraction bin (quintile),0.058653708275943364,300
+aves_aves_ds16_voiced,FCM,2,SNR bin (quintile),0.004457816660713818,300
+aves_aves_te_voiced,KMeans,2,channel,0.10723795134082775,300
+aves_aves_te_voiced,KMeans,2,month,0.08125263217238916,300
+aves_aves_te_voiced,KMeans,2,context,0.292704986087539,300
+aves_aves_te_voiced,KMeans,2,bat(+ only),0.1707515398070017,133
+aves_aves_te_voiced,KMeans,2,silence_fraction bin (quintile),0.00923951841457081,300
+aves_aves_te_voiced,KMeans,2,SNR bin (quintile),0.005242957934897272,300
+aves_aves_te_voiced,GMM-diag,2,channel,0.058288910938820035,300
+aves_aves_te_voiced,GMM-diag,2,month,0.04415414774095245,300
+aves_aves_te_voiced,GMM-diag,2,context,0.13787702568002475,300
+aves_aves_te_voiced,GMM-diag,2,bat(+ only),0.12109540832181126,133
+aves_aves_te_voiced,GMM-diag,2,silence_fraction bin (quintile),0.002964980500256772,300
+aves_aves_te_voiced,GMM-diag,2,SNR bin (quintile),0.018303764612368767,300
+aves_aves_te_voiced,FCM,2,channel,0.035457232410482604,300
+aves_aves_te_voiced,FCM,2,month,0.043398317312095466,300
+aves_aves_te_voiced,FCM,2,context,0.11644016034937389,300
+aves_aves_te_voiced,FCM,2,bat(+ only),0.14645056693357184,133
+aves_aves_te_voiced,FCM,2,silence_fraction bin (quintile),0.12386770540853652,300
+aves_aves_te_voiced,FCM,2,SNR bin (quintile),0.005022208086098826,300

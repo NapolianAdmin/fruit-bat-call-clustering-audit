@@ -1,0 +1,23 @@
+table,column,dtype,n_missing,n_unique,min,max
+Annotations.csv,FileID,int64,0,87986,7,293235
+Annotations.csv,Emitter,int64,0,83,-233,233
+Annotations.csv,Addressee,int64,0,64,-233,233
+Annotations.csv,Context,int64,0,13,0,12
+Annotations.csv,E_pre,int64,0,4,0,3
+Annotations.csv,A_pre,int64,0,4,0,3
+Annotations.csv,E_post,int64,0,5,0,4
+Annotations.csv,A_post,int64,0,5,0,4
+Annotations.csv,Start,int64,0,5756,1,9994803
+Annotations.csv,End,int64,0,4130,28206,11944784
+FileInfo.csv (parsed),FileID,int64,0,293238,1,293238
+FileInfo.csv (parsed),treatment_id,int64,0,21,0,20
+FileInfo.csv (parsed),file_name,str,0,293238,120601000005102988.WAV,140219120422504910.WAV
+FileInfo.csv (parsed),folder,str,0,30,files101,files224
+FileInfo.csv (parsed),channel,int64,0,12,1,12
+FileInfo.csv (parsed),rec_time,datetime64[us],0,248586,2012-06-01 00:01:57,2014-02-19 12:03:12
+FileInfo.csv (parsed),n_voice_seg,int64,0,101,1,163
+FileInfo.csv (parsed),voice_first_start,int64,0,55096,1,5905441
+FileInfo.csv (parsed),voice_last_end,int64,0,158837,6541,11758898
+FileInfo.csv (parsed),voice_samples,int64,0,132155,5108,6094134
+FileInfo.csv (parsed),date,datetime64[us],0,369,2012-06-01 00:00:00,2014-02-19 00:00:00
+FileInfo.csv (parsed),month,str,0,14,2012-06,2014-02

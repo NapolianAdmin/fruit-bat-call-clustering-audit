@@ -1,0 +1,2 @@
+model,files,wall_s,s_per_file,torch
+aves-base-all,1000,6553.864233493805,6.553864235877991,2.14.1+cpu

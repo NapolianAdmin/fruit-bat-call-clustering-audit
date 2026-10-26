@@ -1,0 +1,2 @@
+n_syllables,n_bat_groups,delta_BIC_1_minus_2,ci_lo,ci_hi,n_boot,means_ms,weights
+141815,42,2076.8666532743946,764.4374932684192,4237.257345112755,200,"[56.0, 124.6]","[0.485, 0.515]"

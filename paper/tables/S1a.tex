@@ -1,0 +1,20 @@
+\begin{table}[htbp]\centering\scriptsize
+\caption{\textbf{Table S1a.} Prediction strength (PS; bat-level 95\% interval in brackets) and bootstrap Jaccard stability at $k=2$ (definitions in Table S1): observed value, mean of the Gaussian-copula null (cop.) and of the session-mean null (ses.), each over 50--100 simulated datasets. Higher = more stable. Representations: file-level features of the 15,992-file development set unless stated; unseen bats = the 21 bats not used to train the VAE.}\label{tab:S1a}
+\begin{adjustbox}{max width=\linewidth}
+\begin{tabular}{lcccccc}
+\toprule
+representation & PS obs. & PS cop. & PS ses. & Jaccard obs. & cop. & ses. \\
+\midrule
+original matrix (draft, 3,897 rows) & 0.704 [0.62, 0.83] & 0.917 & 0.712 & 0.875 & 0.971 & 0.892 \\
+whole-span 1,408 (15,992 files) & 0.763 [0.70, 0.89] & 0.969 & 0.839 & 0.939 & 0.992 & 0.957 \\
+voiced 1,408 (15,992 files) & 0.660 [0.60, 0.85] & 0.955 & 0.848 & 0.845 & 0.986 & 0.956 \\
+voiced MFCC (15,992 files) & 0.789 [0.74, 0.93] & 0.975 & 0.875 & 0.955 & 0.994 & 0.965 \\
+syllable shape (30,000) & 0.734 [0.68, 0.87] & 0.972 & 0.831 & 0.937 & 0.992 & 0.955 \\
+VAE latent, unseen bats (13,510) & 0.669 [0.58, 0.81] & 0.891 & 0.638 & 0.852 & 0.951 & 0.863 \\
+8-PC baseline, unseen bats (13,510) & 0.513 [0.51, 0.78] & 0.862 & 0.532 & 0.734 & 0.934 & 0.764 \\
+Dataset B microphone (12,417) & 0.674 [0.66, 0.85] & 0.972 & 0.962 & 0.918 & 0.993 & 0.990 \\
+Dataset B piezo (12,417) & 0.928 [0.82, 0.95] & 0.986 & 0.973 & 0.975 & 0.996 & 0.993 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}
