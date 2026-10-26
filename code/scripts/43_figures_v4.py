@@ -45,7 +45,7 @@ nv = pd.read_csv(RES / "step3a_all2_naive_ref1_continuous_auc.csv")
 vo = pd.read_csv(RES / "step3a_all2_voiced_ref1_continuous_auc.csv")
 pn = pd.read_csv(RES / "step3a_all2_naive_ref1_predictive_auc.csv")
 pv = pd.read_csv(RES / "step3a_all2_voiced_ref1_predictive_auc.csv")
-fig, ax = plt.subplots(1, 2, figsize=(W, 2.75), layout="constrained")
+fig, ax = plt.subplots(1, 2, figsize=(W, 2.6), layout="constrained")
 cov = [c for c in ["silence_fraction", "voiced_dur_s", "span_len_s", "n_voiced_seg", "noise_floor_dbfs", "snr_db", "days_since_start"] if c in set(nv.covariate)]
 y = np.arange(len(cov))
 for off, d, col, lab in [(-0.18, nv, RED, "draft pipeline (whole span, FCM labels)"), (0.18, vo, BLUE, "voiced frames only (forced k-means split)")]:
@@ -141,7 +141,7 @@ Dd = pd.read_csv(RES / "step3b_decode_all2.csv")
 Dd = Dd[Dd.task == "emitter(+)"]
 sets6 = [("all2_naive_ref1", "naive 1,408"), ("all2_voiced_ref1", "voiced 1,408"), ("all2_mfcc_naive", "MFCC naive"), ("all2_mfcc_voiced", "MFCC voiced")]
 splits = [("random 5-fold", BLUE), ("blocked by day", GREEN), ("blocked by channel", RED)]
-fig, ax = plt.subplots(figsize=(4.7, 2.45), layout="constrained")
+fig, ax = plt.subplots(figsize=(4.7, 2.25), layout="constrained")
 w = .26
 for j, (sp, col) in enumerate(splits):
     v = [float(Dd[(Dd.set == s) & (Dd.split == sp)].accuracy.iloc[0]) for s, _ in sets6]
