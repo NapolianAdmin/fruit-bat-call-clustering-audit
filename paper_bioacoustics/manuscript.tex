@@ -1,0 +1,58 @@
+﻿\documentclass[10pt]{article}
+\usepackage[a4paper,margin=1.8cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\usepackage{array}
+\usepackage{caption}
+\usepackage[table]{xcolor}
+\usepackage[authoryear,round]{natbib}\usepackage[hidelinks]{hyperref}
+\renewcommand{\cite}{\citep}
+\usepackage{titling}
+\setlength{\droptitle}{-3.2em}\setlength{\thanksmarkwidth}{0pt}
+\postdate{\par\end{center}\vspace{-2.4em}}\preauthor{\begin{center}\large\lineskip 0.2em\begin{tabular}[t]{c}}\predate{\begin{center}\large}\postauthor{\end{tabular}\par\end{center}\vspace{-1.2em}}
+\captionsetup{font=small,labelfont=bf}
+\graphicspath{{figures/}}
+\setlength{\emergencystretch}{3em}
+\setlength{\bibsep}{0pt}\setlength{\textfloatsep}{10pt plus 2pt minus 2pt}\setlength{\floatsep}{8pt plus 2pt minus 2pt}\setlength{\intextsep}{8pt plus 2pt minus 2pt}
+\renewcommand{\floatpagefraction}{0.8}\renewcommand{\topfraction}{0.9}\renewcommand{\bottomfraction}{0.8}\renewcommand{\textfraction}{0.08}
+\makeatletter\newcommand{\tightbib}{\footnotesize\def\@listi{\leftmargin\leftmargini\parsep\z@\topsep 2\p@\itemsep\z@}}\makeatother
+\newcommand{\ci}[2]{[#1,\,#2]}
+\newcommand{\sd}{\textsc{FileInfo}}
+% text that depends on analyses still running when this file was last edited renders as a visible red marker
+\newcommand{\pending}[1]{\textcolor{red}{\textbf{[PENDING: #1]}}}
+\newcommand{\powersyll}{The syllable-level battery (30,000 syllable shapes; Supplement Table~S2b) behaved alike but was somewhat less sensitive: two equally common types were detected in 80--92\% of replicates at 4 standard deviations, a 20\% minority in 83--99\% at 6 (silhouette, prediction strength, Jaccard and dip statistics), and a 5\% minority in at most 9\% of replicates up to 6 standard deviations (dip statistic 64\% at 8).}
+
+\title{Discrete or graded? A confound-controlled re-analysis of clustering\\ in Egyptian fruit bat (\textit{Rousettus aegyptiacus}) social calls}
+\author{Ninad Rai\\Ashoka University}
+\date{}
+
+\begin{document}
+\maketitle
+\vspace{-1.3em}
+
+\begin{abstract}
+\noindent\textbf{Background.} Unsupervised clustering is used to define animal call types, but clusters can reflect recording conditions rather than call structure. Earlier analyses of a public Egyptian fruit bat corpus reported two acoustic regimes and individual ``acoustic modes''.
+\textbf{Methods.} We re-derived both analyses from the audio (41,116 annotated recordings for development, 45,557 further files for out-of-sample tests), controlled for silence, duration, signal-to-noise ratio, microphone channel, session and individual, resampled individuals, and compared fifteen clustering algorithms, tests that allow one cluster with measured power, and UMAP--HDBSCAN against null data.
+\textbf{Results.} The original matrix was reproduced exactly once file-name integers were read as annotation-table row indices, which showed that its emitter and context labels belonged to other recordings. The two clusters split short, silent from longer voiced recordings (silence AUC 0.89). On voiced frames fuzzy c-means collapsed to one cluster, prediction strength across individuals was 0.66 and no density valley appeared; the tests detect equal-share types four standard deviations apart, not a 5\% minority. One group was separable: pups' Isolation calls (6--7\% of files), recovered by several algorithms and separable on unseen individuals (AUC 0.98), on held-out channels (0.98) and in 12,000 and 33,557 never-used files (0.988, 0.991). Identity was decodable on unseen days (accuracy 0.56; majority class 0.15) but only weakly across microphones (balanced accuracy 0.125; shuffled 0.036).
+\textbf{Conclusions.} Social calls are better described as graded than as two discrete regimes, with one separable Isolation group; claims of call types or individual modes need blocked validation, power estimates and null comparisons.
+\end{abstract}
+\vspace{-0.6em}
+
+\noindent\textbf{Keywords:} bioacoustics; \emph{Rousettus aegyptiacus}; cluster validation; clusterability; confounding; reproducibility; vocal individuality
+
+\input{sections/intro}
+\input{sections/methods}
+\input{sections/results_a}
+\input{sections/results_b1}
+\input{sections/results_c1}
+\input{sections/results_b2}
+\input{sections/results_c2}
+\input{sections/discussion}
+\begingroup\tightbib
+\input{sections/refs}
+\endgroup
+
+\end{document}
