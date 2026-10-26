@@ -1,4 +1,5 @@
 # Fruit-bat call clustering audit - are Egyptian fruit bat social calls discrete or graded once recording confounds are controlled?
+n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23662435.svg)](https://doi.org/10.5281/zenodo.23662435)
 
 A confound-controlled re-audit of the July 2026 draft "Robust Two-Cluster Structure in Egyptian Fruit Bat Social Vocalizations"
 by the same author. Everything here is new work; the earlier draft's files were only read. **The answer is in `results/MEMO.md`** (2 pages): graded, with one separable exception (pups' Isolation calls), not two discrete regimes. Paper draft: `paper/main.tex` (compile with `paper/compile.ps1` or any LaTeX engine; PDFs are included). Review of the June draft: `results/REVIEW_of_june_draft.md`.
